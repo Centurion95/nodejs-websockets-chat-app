@@ -29,6 +29,10 @@ npm start
 ```
 
 ## Acerca de
+rc95 - 30/07/2022 10:06
+- Desarrollo completo del aplicativo
+- Utilizamos momentjs (+timestamp) en vez de formatear manualmente la fecha
+
 rc95 - 26/07/2022 01:29
 - Primera versión del proyecto
 - Se agrega .gitignore
